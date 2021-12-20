@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Blloc Challenge</string>
+    <string name="notif_service_name">NotificationListener</string>
+    <string name="no_notification_received">No notification Received !</string>
+</resources>
