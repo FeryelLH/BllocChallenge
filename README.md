@@ -1,5 +1,3 @@
-# BllocChallenge
-
  # Blloc Coding Challenge
 Coding challenge as part of the interview process for an Android role at Blloc.
 
