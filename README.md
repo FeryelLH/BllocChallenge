@@ -28,5 +28,7 @@ code should be written in a way to enable scaling it to a bigger app
 ● The app follows the android platform requirements and best practices e.g. configuration
 changes, process death, localisation....
 ● Performance - efficient layouts, efficient use of resources (no leaks)
-Resources
-● Notification listener service● Requesting notification access
+
+ # Resources
+● Notification listener service : https://developer.android.com/reference/android/service/notification/NotificationListenerService
+● Requesting notification access: https://stackoverflow.com/questions/22663359/redirect-to-notification-access-settings/22664416#22664416
